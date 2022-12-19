@@ -1,0 +1,10 @@
+owliance/util/JpaContext.class
+owliance/entity/Employe.class
+owliance/dao/DaoEmployeJpaImpl.class
+owliance/dao/DaoDepartementJpaImpl.class
+owliance/entity/Civilite.class
+owliance/dao/DaoDepartement.class
+owliance/entity/Adresse.class
+owliance/dao/DaoGeneric.class
+owliance/entity/Departement.class
+owliance/dao/DaoEmploye.class
